@@ -7,4 +7,3 @@ techpack/datarmnet-ext/perf_tether/rmnet_perf_tether.ko
 techpack/datarmnet-ext/sch/rmnet_sch.ko
 techpack/datarmnet-ext/shs/rmnet_shs.ko
 techpack/datarmnet-ext/wlan/rmnet_wlan.ko
-techpack/mmrm/driver/msm-mmrm.ko
